@@ -34,7 +34,7 @@ The COVID-19 pandemic significantly changed the global job market, especially in
   - Location
   - Sector
   - Company Size
-
+  - Link to download : https://drive.google.com/drive/folders/1Yl2rAwytABKjF1SOabxMe7civ0z1FBNI
 ---
 
 ## 🛠️ Technologies Used
