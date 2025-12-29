@@ -103,14 +103,14 @@ http://localhost:8501
 
 ---
 
-Data_Analytics_Job_Market_Analysis/
-│
-├── app.py
-├── DataAnalyst.csv
-├── main.ipynb
-├── requirements.txt
-├── Dockerfile
-└── README.md
+-Data_Analytics_Job_Market_Analysis/
+-│
+-├── app.py
+-├── DataAnalyst.csv
+-├── main.ipynb
+-├── requirements.txt
+-├── Dockerfile
+-└── README.md
 
 ---
 
