@@ -51,7 +51,7 @@ The COVID-19 pandemic significantly changed the global job market, especially in
 
 ## ⚙️ System Architecture
 
-User → Dataset → Data Preprocessing → EDA → ML Model → Streamlit UI → User
+- **User → Dataset → Data Preprocessing → EDA → ML Model → Streamlit UI → User**
 
 
 ---
@@ -101,6 +101,7 @@ docker run -p 8501:8501 job-market-analysis-app
 Access the app at:
 http://localhost:8501
 
+---
 
 Data_Analytics_Job_Market_Analysis/
 │
@@ -111,8 +112,10 @@ Data_Analytics_Job_Market_Analysis/
 ├── Dockerfile
 └── README.md
 
-👨‍💻 Author
+---
 
-Pranuth Manjunath
-M.Tech | Data Analytics | Machine Learning
-GitHub: PranuthHM
+## 👨‍💻 Author
+
+- Pranuth Manjunath
+- M.Tech | Data Analytics | Machine Learning
+- GitHub: <href> https://github.com/PranuthHM </href>
